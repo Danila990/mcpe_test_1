@@ -1,0 +1,134 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: PrivacyPolicyPageTable_de
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: 07a85fbc70ea6ac43858341b52f18290, type: 2}
+  m_Metadata:
+    m_Items:
+    - id: 0
+  m_TableData:
+  - m_Id: 10732425216
+    m_Localized: Politik
+    m_Metadata:
+      m_Items: []
+  - m_Id: 678297849856
+    m_Localized: Akzeptieren
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066241609728
+    m_Localized: "We have developed the {app_name} as a free app. This application
+      is in the public domain and is intended for use by any user.\r\nThis page is
+      used to inform visitors about our policies regarding the collection, use and
+      disclosure of personal information.\r\n\r\nYou agree to the transfer of personal
+      data to the services and SDKs that are built into our application, as well
+      as the processing of files and access to the file system of your device. The
+      personal data we collect will be used to provide and improve the application.
+      We will not use your data or share it with third parties except as described
+      in this privacy policy.\r\n\r\nThe terms used in this Privacy Policy have the
+      same meaning as our terms available on the {app_name}, unless otherwise specified
+      in this Privacy Policy.\r\n\r\n<size=120%><align=\"center\"><u>Collection and
+      use of information</u></align></size>\r\n\r\nThe application uses third party
+      services that may collect information used to identify you. Links to the privacy
+      policy of the third party service providers used by the application:\r\n\u25CF
+      <u><link=https://www.google.com/policies/privacy/>Google Play Services</link></u>\r\n\u25CF
+      <u><link=https://support.google.com/admob/answer/6128543?hl=en>AdMob</link></u>\r\n\u25CF
+      <u><link=https://unity3d.com/ru/legal/privacy-policy>Unity</link></u>\r\n\u25CF
+      <u><link=https://yandex.ru/legal/confidential/>Appmetrica</link></u>\r\n \r\n<size=120%><align=\"center\"><u>Data</u></align></size>\r\n\r\nPlease
+      note that every time you use our app, in the event that an error occurs in
+      the app, we transfer data and information to the Appmetrica service (through
+      third party products) on your phone. This data may include information such
+      as your device's IP address, device name, operating system version, application
+      configuration when using our Service, the time and date of use of the Service,
+      and other statistical data as specified in the AppMetrica service's privacy
+      policy.\r\n \r\n<size=120%><align=\"center\"><u>Data is collected and transmitted
+      automatically</u></align></size>\r\n\r\nCollecting Android Advertising IDs
+      is optional. The Ad ID can be reset or removed by users using the Ad ID commands
+      in the Android settings menu.\r\n \r\nCertain other features of the Google
+      Mobile Ads SDK, such as the prohibited advertising feature, may also prevent
+      the transmission of advertising identifiers and other data.\r\n\r\n<size=120%><align=\"center\"><u>Data
+      processing</u></align></size>\r\n\r\nThe Google Mobile Ads SDK automatically
+      collects and transmits types of data for advertising, analysis, and fraud prevention.\r\n\r\n<size=120%><align=\"center\"><u>Personal
+      and sensitive user data. </u></align></size>\r\n \r\nApplication {app_name}
+      securely handles everything personal and confidential data of users, including
+      their transmission using modern cryptography (for example, via the HTTPS protocol).\r\n\r\nTo
+      access the data itself, the {app_name} application requests access to this
+      data from users (in exceptional cases, it does this without a request, indicating
+      this in the policy of the application itself).\r\n\r\n<size=120%><align=\"center\"><u>Location.
+      </u></align></size>\r\n\r\nWe do not collect data about your exact location,
+      for app collection statistics we collect approximate location by your country
+      and/or region of location.\r\n\r\n<size=120%><align=\"center\"><u>Files and
+      Documents. </u></align></size>\r\n\r\nWe collect information about your data
+      on the device that is associated with Minecraft. All data is stored temporarily.
+      Users cannot prevent the collection of this data, as it is necessary for the
+      application to function properly. For example, we can see if you have Minecraft
+      installed or not.\r\n \r\n<size=120%><align=\"center\"><u>In-app activity history.
+      </u></align></size>\r\n\r\nFor the best app experience and your experience,
+      we get access to track your activities in our app, as well as collect data
+      from your phone about the apps installed on it that are related to Minecraft.\r\n\r\n<size=120%><align=\"center\"><u>App
+      information and usage data. </u></align></size>\r\n\r\nWe do not provide users'
+      personal information to third parties. We are concerned about the complete
+      safety of our users. We collect Error Log Data and Analytics. For the correct
+      operation of the application, we track errors and crashes in order to improve
+      the performance of our products.\r\n\r\n<size=120%><align=\"center\"><u>Device
+      IDs. </u></align></size>\r\n \r\nWe collect data about user interaction with
+      the application and about its productivity for analytics and advertising.\r\n\r\n<size=120%><align=\"center\"><u>Service
+      providers</u></align></size>\r\n\r\nWe may employ third party companies and
+      individuals for the following reasons:\r\n\u25CF\tto facilitate the operation
+      of our application;\r\n\u25CF\tTo provide an application on our behalf;\r\n\u25CF\tTo
+      provide services related to the application; or\r\n\u25CF\tTo help us analyze
+      how our application is being used.\r\nWe want to inform app users that third
+      parties have access to your Personal Information.\r\n The reason is to carry
+      out the tasks assigned to them on our behalf. However, they are required not
+      to disclose or use the information for any other purpose as specified in their
+      policies.\r\n\r\n<size=120%><align=\"center\"><u>Children's privacy</u></align></size>\r\n\r\nOur
+      application is not intended for persons under the age of 13. Our application
+      can be used by children under the age of 13 with the consent of their parents.
+      We do not collect personal information from children under the age of 13. In
+      case of erroneous collection of data from such users, they are instantly deleted
+      from all servers (including those where the data is transferred). If you are
+      a parent or guardian and you are aware that your child has provided us with
+      personal information, please contact us via email on our application page so
+      that we can take the necessary action.\r\n\r\n<size=120%><align=\"center\"><u>Security</u></align></size>\r\n\r\nWe
+      value your trust in providing us with your personal information, so we strive
+      to use commercially acceptable means of protecting it. But remember that no
+      method of transmission over the Internet or method of electronic storage is
+      100% secure and reliable. We cannot guarantee its absolute safety.\r\n\r\n<size=120%><align=\"center\"><u>Links
+      to other sites</u></align></size>\r\n\r\nOur application may contain links
+      to other websites. Please note that these external sites are not operated by
+      us (for example, they may be advertisements). Therefore, we strongly recommend
+      that you read the Privacy Policy of these websites. We do not control and are
+      not responsible for the content, privacy practices or practices of any third
+      party sites or services.\r\n\r\n<size=120%><align=\"center\"><u>Copyright protection</u></align></size>\r\n\r\nThe
+      word Minecraft (whose product we use for distribution and use by other players)
+      is not copyrighted and is in the public domain <u><link=https://www.microsoft.com/en-us/servicesagreement>https://www.microsoft.com/en-us/servicesagreement</link></u>\r\n\r\nAll
+      modifications for applications and games are installed separately in our application
+      at the request of the user who downloaded it. We are ready to remove the modification
+      placed in our application at the request of its developer in case of providing
+      evidence of involvement in the development. The collected modifications are
+      free and were taken from public free Internet resources without indicating
+      anyone's copyright.\r\n\r\n<size=120%><align=\"center\"><u>Changes to this
+      Privacy Policy</u></align></size>\r\n\r\nWe may update our Privacy Policy from
+      time to time. As such, you are encouraged to review this page periodically
+      for changes. We will notify you of any changes by posting the new Privacy Policy
+      on this page."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 00d0f340f8000000

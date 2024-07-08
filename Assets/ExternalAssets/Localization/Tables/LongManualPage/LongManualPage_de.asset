@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: LongManualPage_de
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: 3dee11dc047c7d6478e73d20b12b397b, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 20175556608
+    m_Localized: Anweisungen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 355375943680
+    m_Localized: "1. Gehen Sie auf die Seite des Mods, der Sie interessiert, indem
+      Sie auf die Schaltfl\xE4che mit dem Namen des Mods klicken.\n2. W\xE4hlen Sie
+      den gew\xFCnschten Mod aus und klicken Sie auf die Schaltfl\xE4che \"\xD6ffnen\".\n3.
+      Klicken Sie auf die Schaltfl\xE4che Download. \n4. Warten Sie, bis der Mod
+      installiert ist.\n5. Klicken Sie auf die Schaltfl\xE4che Addon \xF6ffnen. Danach
+      \xF6ffnet sich Minecraft und der Import findet statt. Wenn der Import nicht
+      erfolgreich ist, schlie\xDFen Sie Minecraft und \xF6ffnen Sie die Mod erneut."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 522414100480
+    m_Localized: "6. Wenn Sie alles richtig gemacht haben und die Version Ihres minkraft
+      mit der in den unterst\xFCtzten Versionen enthaltenen \xFCbereinstimmt, sehen
+      Sie den Satz \"Import success:\"."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 544627134464
+    m_Localized: "7. Schaffen Sie eine neue Welt. Klicken Sie unter der Registerkarte
+      \"Extras\" auf \"Ressourcensets\", dann auf \"Meine Sets\", um das installierte
+      Addon zu finden und auszuw\xE4hlen, und klicken Sie auf \"Aktivieren\".\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 558048907264
+    m_Localized: "8. Denken Sie auch daran, die Parameters\xE4tze anzuwenden, falls
+      vorhanden. Klicken Sie auf \"Parameter Sets\", nachdem Sie auf \"My Sets\"
+      geklickt haben, w\xE4hlen Sie das installierte Addon aus und klicken Sie auf
+      \"Aktivieren\". Wenn es keine Optionen gibt, k\xF6nnen Sie diesen Schritt \xFCberspringen.\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 878527287296
+    m_Localized: "1. Gehen Sie auf die Seite mit den Skins.\n2. Klicken Sie auf die
+      Schaltfl\xE4che \"Download\". \n3. Warten Sie, bis das Addon installiert ist.\n4.
+      Klicken Sie auf die Schaltfl\xE4che Addon \xF6ffnen. Dadurch wird Minecraft
+      ge\xF6ffnet und importiert. Wenn der Import nicht stattfindet, schlie\xDFen
+      Sie Minecraft und \xF6ffnen Sie die Mod erneut.\n5. Wenn Sie alles richtig
+      gemacht haben, wird der Satz \"Successful import:\" angezeigt."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 941873860608
+    m_Localized: "6. Gehen Sie auf die Registerkarte Kleiderschrank. Je nach Version
+      von Mintcraft k\xF6nnen die Schritte unterschiedlich sein, daher m\xFCssen
+      Sie die Registerkarte \"Gekauft\" selbst finden.\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 954863620096
+    m_Localized: "7. Auf der Registerkarte \"Gekauft\" finden Sie eine Reihe von
+      Skins. W\xE4hlen Sie Ihren Favoriten aus der Liste und klicken Sie auf \"Anlegen\".\n8.
+      Viel Spa\xDF beim Spielen mit deinem neuen Skin!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1266349412352
+    m_Localized: "1. Gehen Sie auf die Addon-Seite.\n2. Klicken Sie auf die Schaltfl\xE4che
+      Download. \n3. Warten Sie, bis das Addon installiert ist.\n4. Klicken Sie auf
+      die Schaltfl\xE4che Addon \xF6ffnen. Dadurch wird Minecraft ge\xF6ffnet und
+      importiert. Wenn der Import nicht stattfindet, schlie\xDFen Sie Minecraft und
+      \xF6ffnen Sie die Mod erneut.\n5. Wenn du alles richtig gemacht hast und die
+      Version deines Minecraft mit der in den unterst\xFCtzten Versionen \xFCbereinstimmt,
+      wirst du den Satz \"Import world successfully completed\" sehen.\n6. \xD6ffnen
+      Sie die heruntergeladene Welt und genie\xDFen Sie das Spiel!"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

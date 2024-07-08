@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9e75003490e0bb49b1b843eb001280f, type: 3}
+  m_Name: ModData_1
+  m_EditorClassIdentifier: 
+  <ModNameLocalized>k__BackingField:
+    m_TableReference:
+      m_TableCollectionName: GUID:8803d64ac4dc84a4a83ad30ecb530133
+    m_TableEntryReference:
+      m_KeyId: 55264454889472
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  <DescriptionModLocalized>k__BackingField:
+    m_TableReference:
+      m_TableCollectionName: GUID:8803d64ac4dc84a4a83ad30ecb530133
+    m_TableEntryReference:
+      m_KeyId: 55986768564224
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  <ModPath>k__BackingField: V20/Mods/Mod_1/Mod.mcaddon
+  <IsShowRewardAdAfterOpenMod>k__BackingField: 1
+  <Version>k__BackingField: 1.20.60, 1.20.50
+  <Icon>k__BackingField: {fileID: 21300000, guid: b0f148ab4161ff2439c0587b5220cca7, type: 3}
+  <Screenshots>k__BackingField:
+  - {fileID: 21300000, guid: a7a325d30e9bd39478f5411961ad3e60, type: 3}
+  - {fileID: 21300000, guid: 2efe3611d1f93da4dba9597ec65886f0, type: 3}
+  - {fileID: 21300000, guid: 054fbec39b791aa46a1704ee5f32141a, type: 3}
+  references:
+    version: 1

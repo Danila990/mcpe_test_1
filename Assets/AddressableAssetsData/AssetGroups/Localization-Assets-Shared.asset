@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Shared
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-Shared
+  m_Data:
+    m_SerializedData: []
+  m_GUID: c6bef0d5fcd0d664899f999299755872
+  m_SerializeEntries:
+  - m_GUID: 352da9b5ff7afea4c994feee1c03d53e
+    m_Address: Assets/Localization/Tables/LoadPageTable Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d297fb2edcd43af40847094d21135044
+    m_Address: Assets/Localization/Tables/MainPageTable Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8803d64ac4dc84a4a83ad30ecb530133
+    m_Address: Assets/Localization/Tables/ModsPage/ModsPageTable Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4d45de0d1a29b6440ada285836dfbb2a
+    m_Address: Assets/Localization/Tables/SettingPage/SettingPageTable Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 07a85fbc70ea6ac43858341b52f18290
+    m_Address: Assets/Localization/Tables/PoliticsPage/PoliticsPageTable Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1c18d72f10d2bc64cacbab8f1da9a7a9
+    m_Address: Assets/Localization/Tables/ModPageTable/ModPageTable Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3dee11dc047c7d6478e73d20b12b397b
+    m_Address: Assets/GamelResources/Localization/Tables/LongInstructionPage/Long
+      Instruction Page Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 926b338fb20962e4aaa8b89483f74b37
+    m_Address: Assets/Localization/Tables/AdPage/AdPageTable Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 47f66bcd338210d49b47c3b38b37d2b6
+    m_Address: Assets/Localization/Tables/DownloadModPage/DownloadModPageTable Shared
+      Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 02f32ce7124632844bc35e341ab4dfa9
+    m_Address: Assets/Localization/Tables/SettingAsset/SettingAssetTable Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c65d0859dddd9d54394329d300d90d04
+    m_Address: Assets/Localization/Tables/LoadingErrors/Loading Errors Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7a8e1b62786fe154eb8886585c3048d3
+    m_Address: Assets/Localization/Tables/ShortInstructionPage/Short Instruction
+      Page Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 5c86ce0752075c646ac3fdbfc3edffa2, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: d9d5f86108e4c7e44a445c2e33ec83a7, type: 2}
+    - {fileID: 11400000, guid: 5c5b40fba00e17f4a95071db4421ab2e, type: 2}

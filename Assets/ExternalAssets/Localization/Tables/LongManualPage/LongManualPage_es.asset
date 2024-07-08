@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: LongManualPage_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 3dee11dc047c7d6478e73d20b12b397b, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 20175556608
+    m_Localized: Instrucciones
+    m_Metadata:
+      m_Items: []
+  - m_Id: 355375943680
+    m_Localized: "1. Ve a la p\xE1gina del mod que te interesa haciendo clic en el
+      bot\xF3n con el nombre del mod.\n2. Selecciona el mod que te interesa y haz
+      clic en el bot\xF3n de abrir.\n3. Haga clic en el bot\xF3n de descarga. \n4.
+      Espera a que se instale el mod.\n5. Haga clic en el bot\xF3n de abrir el complemento.
+      Despu\xE9s de eso, Minecraft se abrir\xE1 y la importaci\xF3n se llevar\xE1
+      a cabo. Si la importaci\xF3n no tiene \xE9xito, cierre Minecraft y vuelva a
+      abrir el mod."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 522414100480
+    m_Localized: "6. Si has hecho todo correctamente y la versi\xF3n de tu minkraft
+      coincide con la que figura en las versiones soportadas, ver\xE1s la frase \"Importar
+      con \xE9xito: \""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 544627134464
+    m_Localized: "7. Crea un nuevo mundo. En la pesta\xF1a \"Extras\", haz clic en
+      \"Conjuntos de recursos\", luego haz clic en \"Mis conjuntos\" para buscar
+      y seleccionar el complemento instalado y haz clic en activar.\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 558048907264
+    m_Localized: "8. Adem\xE1s, recuerde aplicar los conjuntos de par\xE1metros,
+      si est\xE1n disponibles. Haga clic en \"Conjuntos de par\xE1metros\", despu\xE9s
+      de hacer clic en \"Mis conjuntos\", busque y seleccione el complemento instalado
+      y haga clic en activar. Si no hay opciones, puede omitir este paso.\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 878527287296
+    m_Localized: "1. Ve a la p\xE1gina de skins.\n2. Haga clic en el bot\xF3n de
+      descarga. \n3. Espere a que se instale el complemento.\n4. Haga clic en el
+      bot\xF3n de abrir el complemento. Esto abrir\xE1 Minecraft y lo importar\xE1.
+      Si la importaci\xF3n no se produce, cierra Minecraft y vuelve a abrir el mod.\n5.
+      Si ha hecho todo correctamente, ver\xE1 la frase \"Successful import:\"."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 941873860608
+    m_Localized: "6. Ve a la pesta\xF1a de vestuario. Dependiendo de la versi\xF3n
+      de mintcraft, los pasos pueden ser diferentes, por lo que tendr\xE1s que encontrar
+      la pesta\xF1a \"comprado\" t\xFA mismo.\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 954863620096
+    m_Localized: "7. En la pesta\xF1a de comprados habr\xE1 un pack de skins, elige
+      tu favorito de la lista y haz clic en poner.\n8. \xA1Disfruta jugando con tu
+      nueva piel!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1266349412352
+    m_Localized: "1. Vaya a la p\xE1gina del complemento.\n2. Haga clic en el bot\xF3n
+      de descarga. \n3. Espere a que se instale el complemento.\n4. Haga clic en
+      el bot\xF3n de abrir el complemento. Esto abrir\xE1 Minecraft y lo importar\xE1.
+      Si la importaci\xF3n no se produce, cierra Minecraft y vuelve a abrir el mod.\n5.
+      Si has hecho todo correctamente y la versi\xF3n de tu Minecraft coincide con
+      la contenida en las versiones soportadas entonces ver\xE1s la frase \"Importar
+      mundo completado con \xE9xito\".\n6. \xA1Abre el mundo descargado y disfruta
+      del juego!"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

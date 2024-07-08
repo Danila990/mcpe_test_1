@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: LongManualPage_pl
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pl
+  m_SharedData: {fileID: 11400000, guid: 3dee11dc047c7d6478e73d20b12b397b, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 20175556608
+    m_Localized: Instrukcje
+    m_Metadata:
+      m_Items: []
+  - m_Id: 355375943680
+    m_Localized: "1. Przejd\u017A na stron\u0119 interesuj\u0105cego Ci\u0119 moda,
+      klikaj\u0105c na przycisk z jego nazw\u0105.\n2. Wybierz interesuj\u0105cy
+      Ci\u0119 mod i kliknij przycisk open.\n3. kliknij przycisk Pobierz. \n4. Poczekaj,
+      a\u017C mod zostanie zainstalowany.\n5. Kliknij na przycisk Otw\xF3rz addon.
+      Po tym Minecraft si\u0119 otworzy i nast\u0105pi import. Je\u015Bli import
+      si\u0119 nie powiedzie, zamknij Minecrafta i otw\xF3rz ponownie mod."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 522414100480
+    m_Localized: "6. Je\u015Bli wszystko zrobi\u0142e\u015B poprawnie i wersja Twojego
+      minkraftu zgadza si\u0119 z t\u0105 zawart\u0105 w obs\u0142ugiwanych wersjach,
+      zobaczysz fraz\u0119 \"Import success: \"."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 544627134464
+    m_Localized: "7. Stworzy\u0107 nowy \u015Bwiat. W zak\u0142adce \"Extras\" kliknij
+      na \"Resource Sets\", nast\u0119pnie kliknij na \"My Sets\", aby znale\u017A\u0107
+      i wybra\u0107 zainstalowany dodatek i kliknij aktywuj.\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 558048907264
+    m_Localized: "8. Pami\u0119taj r\xF3wnie\u017C o zastosowaniu zestaw\xF3w parametr\xF3w,
+      je\u015Bli s\u0105 dost\u0119pne. Kliknij na \"Parameter Sets\" po klikni\u0119ciu
+      na \"My Sets\" znajd\u017A i wybierz zainstalowany addon i kliknij na activate.
+      Je\u015Bli nie ma \u017Cadnych opcji, mo\u017Cesz pomin\u0105\u0107 ten krok.\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 878527287296
+    m_Localized: "1. Przejd\u017A do strony ze sk\xF3rkami.\n2. Kliknij przycisk
+      Pobierz. \n3. Poczekaj, a\u017C addon zostanie zainstalowany.\n4. Kliknij na
+      przycisk Otw\xF3rz addon. Spowoduje to otwarcie Minecrafta i zaimportowanie
+      go. Je\u015Bli import nie nast\u0105pi, zamknij Minecrafta i otw\xF3rz ponownie
+      mod.\n5. Je\u015Bli wszystko zrobi\u0142e\u015B poprawnie, zobaczysz fraz\u0119
+      \"Successful import:\"."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 941873860608
+    m_Localized: "6. Przejd\u017A do zak\u0142adki \"szafa\". W zale\u017Cno\u015Bci
+      od wersji mintcrafta, kroki mog\u0105 si\u0119 r\xF3\u017Cni\u0107, wi\u0119c
+      b\u0119dziesz musia\u0142 sam znale\u017A\u0107 zak\u0142adk\u0119 \"zakupione\".\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 954863620096
+    m_Localized: "7. W zak\u0142adce zakupione b\u0119dzie paczka skin\xF3w, wybierz
+      z listy sw\xF3j ulubiony i kliknij za\u0142\xF3\u017C.\n8. Mi\u0142ej zabawy
+      z now\u0105 sk\xF3r\u0105!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1266349412352
+    m_Localized: "1. Przejd\u017A na stron\u0119 dodatku.\n2. Kliknij przycisk Pobierz.
+      \n3. Poczekaj, a\u017C addon zostanie zainstalowany.\n4. Kliknij na przycisk
+      Otw\xF3rz addon. Spowoduje to otwarcie Minecrafta i zaimportowanie go. Je\u015Bli
+      import nie nast\u0105pi, zamknij Minecrafta i otw\xF3rz ponownie mod.\n5. Je\u015Bli
+      zrobi\u0142e\u015B wszystko poprawnie i wersja Twojego Minecrafta pasuje do
+      tej zawartej w supported versions to zobaczysz fraz\u0119 \"Import world successfully
+      completed.\n6. Otw\xF3rz pobrany \u015Bwiat i ciesz si\u0119 gr\u0105!"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

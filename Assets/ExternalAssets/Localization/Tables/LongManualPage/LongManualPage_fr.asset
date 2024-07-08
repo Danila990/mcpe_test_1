@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: LongManualPage_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: 3dee11dc047c7d6478e73d20b12b397b, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 20175556608
+    m_Localized: Instructions
+    m_Metadata:
+      m_Items: []
+  - m_Id: 355375943680
+    m_Localized: "1. Acc\xE9dez \xE0 la page du mod qui vous int\xE9resse en cliquant
+      sur le bouton portant le nom du mod.\n2. S\xE9lectionnez le module qui vous
+      int\xE9resse et cliquez sur le bouton \"Ouvrir\".\n3. cliquez sur le bouton
+      de t\xE9l\xE9chargement. \n4. Attendez que le mod soit install\xE9.\n5. Cliquez
+      sur le bouton \"open addon\". Apr\xE8s cela, Minecraft s'ouvrira et l'importation
+      aura lieu. Si l'importation ne r\xE9ussit pas, fermez Minecraft et rouvrez
+      le mod."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 522414100480
+    m_Localized: "6. Si vous avez tout fait correctement et que la version de votre
+      minkraft correspond \xE0 celle contenue dans les versions prises en charge,
+      vous verrez la phrase \"Importation r\xE9ussie : \"."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 544627134464
+    m_Localized: "7. Cr\xE9ez un nouveau monde. Sous l'onglet \"Extras\", cliquez
+      sur \"Resource Sets\", puis cliquez sur \"My Sets\" pour trouver et s\xE9lectionner
+      l'addon install\xE9 et cliquez sur activer.\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 558048907264
+    m_Localized: "8. N'oubliez pas non plus d'appliquer les jeux de param\xE8tres,
+      s'ils sont disponibles. Cliquez sur \"Parameter Sets\" apr\xE8s avoir cliqu\xE9
+      sur \"My Sets\" trouvez et s\xE9lectionnez l'addon install\xE9 et cliquez sur
+      activer. S'il n'y a pas d'options, vous pouvez passer cette \xE9tape.\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 878527287296
+    m_Localized: "1. Allez \xE0 la page des skins.\n2. Cliquez sur le bouton de t\xE9l\xE9chargement.
+      \n3. Attendez que l'addon soit install\xE9.\n4. Cliquez sur le bouton \"open
+      addon\". Cela va ouvrir Minecraft et l'importer. Si l'importation n'a pas lieu,
+      fermez Minecraft et rouvrez le mod.\n5. Si vous avez tout fait correctement,
+      vous verrez la phrase \"Successful import :\"."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 941873860608
+    m_Localized: "6. Allez dans l'onglet \"garde-robe\". Selon la version de mintcraft,
+      les \xE9tapes peuvent diff\xE9rer, vous devrez donc trouver vous-m\xEAme l'onglet
+      \"achet\xE9\".\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 954863620096
+    m_Localized: "7. Dans l'onglet achet\xE9, il y aura un pack de skins, choisissez
+      votre pr\xE9f\xE9r\xE9 dans la liste et cliquez sur mettre.\n8. Amusez-vous
+      \xE0 jouer avec votre nouvelle peau !"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1266349412352
+    m_Localized: "1. Allez sur la page de l'addon.\n2. Cliquez sur le bouton de t\xE9l\xE9chargement.
+      \n3. Attendez que l'addon soit install\xE9.\n4. Cliquez sur le bouton \"open
+      addon\". Cela va ouvrir Minecraft et l'importer. Si l'importation n'a pas lieu,
+      fermez Minecraft et rouvrez le mod.\n5. Si vous avez tout fait correctement
+      et que la version de votre Minecraft correspond \xE0 celle contenue dans les
+      versions support\xE9es, vous verrez la phrase \"Import world successfully completed.\n6.
+      Ouvrez le monde t\xE9l\xE9charg\xE9 et profitez du jeu !"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

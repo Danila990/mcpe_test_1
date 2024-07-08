@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: ShortManualPage_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 7a8e1b62786fe154eb8886585c3048d3, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 46146686976
+    m_Localized: Instrucciones
+    m_Metadata:
+      m_Items: []
+  - m_Id: 181261996032
+    m_Localized: "1. Selecciona el mod que te interesa, desc\xE1rgalo y espera a
+      que se instale"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1083880411136
+    m_Localized: "2. Abrirlo. Y esperar a que la importaci\xF3n se complete."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1130789507072
+    m_Localized: "3. Crea un nuevo mundo y a\xF1ade el addon instalado a \xE9l."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1137768828928
+    m_Localized: "4. \xA1Disfruta jugando con el nuevo addon!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1780105515008
+    m_Localized: "1. Ve a la p\xE1gina del complemento, desc\xE1rgalo y espera a
+      que se complete la descarga.\n2. abrir el addon. Espere a que se complete la
+      importaci\xF3n.\n3. Una vez que vea la frase \"Importar mundo completado con
+      \xE9xito\", la instalaci\xF3n est\xE1 completa.\n4 Abre el mundo descargado
+      y disfruta del juego."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1955729412096
+    m_Localized: "1. Ve a la p\xE1gina de skins, desc\xE1rgala y espera a que se
+      complete la descarga."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2015187865600
+    m_Localized: "2. Abrir el addon. Espere a que se complete la importaci\xF3n."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2017029165056
+    m_Localized: "3. Ve a la pesta\xF1a de vestuario. Dependiendo de la versi\xF3n
+      de mintcraft, los pasos pueden ser diferentes, por lo que tendr\xE1s que encontrar
+      la pesta\xF1a \"comprado\" t\xFA mismo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2018404896768
+    m_Localized: "4. En la pesta\xF1a de comprados habr\xE1 un pack de skins, elige
+      tu favorito de la lista y haz clic en poner.\n5. \xA1Disfruta jugando con tu
+      nueva piel!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5033631322112
+    m_Localized: Instrucciones largas
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

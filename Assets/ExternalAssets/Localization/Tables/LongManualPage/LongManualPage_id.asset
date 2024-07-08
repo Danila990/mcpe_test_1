@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: LongManualPage_id
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: id
+  m_SharedData: {fileID: 11400000, guid: 3dee11dc047c7d6478e73d20b12b397b, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 20175556608
+    m_Localized: Instruksi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 355375943680
+    m_Localized: "1. Buka halaman mod yang Anda minati dengan mengklik tombol dengan
+      nama mod.\n2. Pilih mod yang Anda minati dan klik tombol buka.\n3. klik tombol
+      unduh. \n4. Tunggu sampai mod terpasang.\n5. Klik pada tombol buka addon. Setelah
+      itu, Minecraft akan terbuka dan impor akan berlangsung. Jika impor tidak berhasil,
+      tutup Minecraft dan buka kembali mod."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 522414100480
+    m_Localized: '6. Jika Anda telah melakukan semuanya dengan benar dan versi minkraft
+      Anda cocok dengan yang terkandung dalam versi yang didukung, Anda akan melihat
+      frasa "Impor sukses: "'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 544627134464
+    m_Localized: '7. Ciptakan dunia baru. Di bawah tab "Extras", klik "Resource Sets",
+      kemudian klik "My Sets" untuk menemukan dan memilih addon yang diinstal, lalu
+      klik activate.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 558048907264
+    m_Localized: '8. Juga, ingatlah untuk menerapkan set parameter, jika tersedia.
+      Klik "Parameter Sets" setelah mengklik "My Sets" temukan dan pilih addon yang
+      diinstal dan klik activate. Jika tidak ada opsi, Anda bisa melewatkan langkah
+      ini.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 878527287296
+    m_Localized: "1. Buka halaman kulit.\n2. Klik tombol unduh. \n3. Tunggu sampai
+      addon terinstal.\n4. Klik pada tombol buka addon. Ini akan membuka Minecraft
+      dan mengimpornya. Jika impor tidak terjadi, tutup Minecraft dan buka kembali
+      mod.\n5. Jika Anda telah melakukan segalanya dengan benar, Anda akan melihat
+      frasa \"Successful import:\"."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 941873860608
+    m_Localized: '6. Buka tab wardrobe (lemari pakaian). Tergantung pada versi mintcraft,
+      langkah-langkahnya mungkin berbeda, jadi Anda perlu menemukan sendiri tab "purchased".
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 954863620096
+    m_Localized: '7. Pada tab purchased akan ada paket skin, pilih favorit Anda dari
+      daftar dan klik put on.
+
+      8. Selamat bermain dengan kulit baru Anda!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1266349412352
+    m_Localized: "1. Buka halaman addon.\n2. Klik tombol unduh. \n3. Tunggu sampai
+      addon terinstal.\n4. Klik pada tombol buka addon. Ini akan membuka Minecraft
+      dan mengimpornya. Jika impor tidak terjadi, tutup Minecraft dan buka kembali
+      mod.\n5. Jika Anda telah melakukan semuanya dengan benar dan versi Minecraft
+      Anda cocok dengan yang terdapat dalam versi yang didukung, maka Anda akan melihat
+      kalimat \"Import world successfully completed.\n6. Buka dunia yang diunduh
+      dan nikmati permainannya!"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

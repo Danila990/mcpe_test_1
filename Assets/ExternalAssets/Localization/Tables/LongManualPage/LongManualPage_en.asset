@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: LongManualPage_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 3dee11dc047c7d6478e73d20b12b397b, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 20175556608
+    m_Localized: Instructions
+    m_Metadata:
+      m_Items: []
+  - m_Id: 355375943680
+    m_Localized: "1. Go to the page of the mod you are interested in by clicking
+      on the button with the name of the mod.\n2. Select the mod you are interested
+      in and click the open button.\n3. click the download button. \n4. Wait for
+      the mod to be installed.\n5. Click on the open addon button. After that, Minecraft
+      will open and the import will take place. If the import does not succeed, close
+      Minecraft and reopen the mod."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 522414100480
+    m_Localized: '6. If you have done everything correctly and the version of your
+      minkraft matches the one contained in the supported versions, you will see
+      the phrase "Import success: "'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 544627134464
+    m_Localized: '7. Create a new world. Under the "Extras" tab, click on "Resource
+      Sets", then click on "My Sets" to find and select the installed addon and click
+      activate.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 558048907264
+    m_Localized: '8. Also, remember to apply the parameter sets, if available. Click
+      on "Parameter Sets" after clicking on "My Sets" find and select the installed
+      addon and click on activate. If there are no options, you can skip this step.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 878527287296
+    m_Localized: "1. Go to the skins page.\n2. Click the download button. \n3. Wait
+      for the addon to be installed.\n4. Click on the open addon button. This will
+      open Minecraft and import it. If the import does not take place, close Minecraft
+      and reopen the mod.\n5. If you have done everything correctly, you will see
+      the phrase \"Successful import:\"."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 941873860608
+    m_Localized: '6. Go to the wardrobe tab. Depending on the version of mintcraft,
+      the steps may differ, so you will need to find the "purchased" tab yourself.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 954863620096
+    m_Localized: '7. In the purchased tab there will be a pack of skins, choose your
+      favourite from the list and click put on.
+
+      8. Enjoy playing with your
+      new skin!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1266349412352
+    m_Localized: "1. Go to the addon page.\n2. Click the download button. \n3. Wait
+      for the addon to be installed.\n4. Click on the open addon button. This will
+      open Minecraft and import it. If the import does not take place, close Minecraft
+      and reopen the mod.\n5. If you have done everything correctly and the version
+      of your Minecraft matches the one contained in the supported versions then
+      you will see the phrase \"Import world successfully completed.\n6. Open the
+      downloaded world and enjoy the game!"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

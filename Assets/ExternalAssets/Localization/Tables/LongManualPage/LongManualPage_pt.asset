@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: LongManualPage_pt
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pt
+  m_SharedData: {fileID: 11400000, guid: 3dee11dc047c7d6478e73d20b12b397b, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 20175556608
+    m_Localized: "Instru\xE7\xF5es"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 355375943680
+    m_Localized: "1. V\xE1 \xE0 p\xE1gina do mod que lhe interessa, clicando no bot\xE3o
+      com o nome do mod.\n2. Seleccione o mod que lhe interessa e clique no bot\xE3o
+      abrir.\n3. Clique no bot\xE3o de descarga. \n4. Aguardar que o mod seja instalado.\n5.
+      Clicar no bot\xE3o \"open addon\". Depois disso, o Minecraft ser\xE1 aberto
+      e a importa\xE7\xE3o ter\xE1 lugar. Se a importa\xE7\xE3o n\xE3o for bem sucedida,
+      feche a Minecraft e reabra o mod."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 522414100480
+    m_Localized: "6. Se tiver feito tudo correctamente e a vers\xE3o da sua arte
+      de vison corresponder \xE0 contida nas vers\xF5es suportadas, ver\xE1 a frase
+      \"Importar sucesso:\"."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 544627134464
+    m_Localized: '7. Criar um novo mundo. Sob o separador "Extras", clicar em "Resource
+      Sets", depois clicar em "My Sets" para encontrar e seleccionar o addon instalado
+      e clicar em activate.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 558048907264
+    m_Localized: "8. Lembre-se tamb\xE9m de aplicar os conjuntos de par\xE2metros,
+      se dispon\xEDveis. Clique em \"Parameter Sets\" depois de clicar em \"My Sets\"
+      find e seleccione o addon instalado e clique em activate. Se n\xE3o houver
+      op\xE7\xF5es, pode saltar este passo.\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 878527287296
+    m_Localized: "1. Ir para a p\xE1gina das peles.\n2. Clique no bot\xE3o de descarga.
+      \n3. Aguardar que o addon seja instalado.\n4. Clicar no bot\xE3o \"open addon\".
+      Isto ir\xE1 abrir o Minecraft e import\xE1-lo. Se a importa\xE7\xE3o n\xE3o
+      tiver lugar, fechar o Minecraft e reabrir o mod.\n5. Se tiver feito tudo correctamente,
+      ver\xE1 a frase \"Importa\xE7\xE3o bem sucedida:\"."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 941873860608
+    m_Localized: "6. Ir para o separador do guarda-roupa. Dependendo da vers\xE3o
+      da mintcraft, os passos podem ser diferentes, pelo que ter\xE1 de ser o pr\xF3prio
+      a encontrar o separador \"comprado\".\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 954863620096
+    m_Localized: "7. No separador comprado haver\xE1 um pacote de peles, escolha
+      a sua favorita da lista e clique em colocar.\n8. Divirta-se a brincar com a
+      sua nova pele!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1266349412352
+    m_Localized: "1. Ir para a p\xE1gina do addon.\n2. Clique no bot\xE3o de descarga.
+      \n3. Aguardar que o addon seja instalado.\n4. Clicar no bot\xE3o \"open addon\".
+      Isto ir\xE1 abrir o Minecraft e import\xE1-lo. Se a importa\xE7\xE3o n\xE3o
+      tiver lugar, fechar o Minecraft e reabrir o mod.\n5. Se tiver feito tudo correctamente
+      e a vers\xE3o do seu Minecraft corresponder \xE0quela contida nas vers\xF5es
+      suportadas, ent\xE3o ver\xE1 a frase \"Importar mundo conclu\xEDdo com sucesso\".\n6.
+      Abra o mundo descarregado e divirta-se com o jogo!"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

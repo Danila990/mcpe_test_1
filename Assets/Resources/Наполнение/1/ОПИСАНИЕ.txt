@@ -1,0 +1,82 @@
+Ru
+
+
+Мод: Семейная жизнь
+
+Мод Family Life добавляет различные NPC, которые естественным образом будут спауниться по всему миру Майнкрафт. С ними можно разговаривать, вступать в брак и даже иметь детей. Используйте это дополнение, чтобы погрузиться в семейную жизнь, если вы одиноко в своем мире Майнкрафт и хотите разнообразия.
+
+Функции ограничены, поскольку сборка находится в стадии разработки.
+
+Как работает это?
+После наведения прицела на NPC нажми кнопку, чтобы начать общение.
+
+Варианты взаимодействия: Рассказ истории — дает случайную возможность человеку проявить счастье, романтический интерес или дружбу; шутка — дает случайную возможность человеку проявить счастье, романтический интерес или дружбу; флирт — дает случайную возможность человеку проявить романтический интерес или дружбу; и подарок — дает случайную возможность человеку проявить счастье, романтический интерес или дружбу,
+
+Взаимодействие с НПС будет меняться в зависимости от статуса. Романтический статус увеличивается за счет флирта, что увеличивает вероятность удачной свадьбы. Дружба: увеличивается за счет разговора, что упрощает взаимодействие. 
+
+Не забудьте включить экспериментальные опции в настройках карты, изменения в новой версии. 
+
+Вернули женитьбу, добавили профессии, изменили покупку предметов, изменили набор очков для статуса, добавили текстуры для кольца.
+
+---
+En
+
+
+Mod: Family Life
+
+The Family Life mod adds various NPCs that will naturally spawn throughout the world of Minecraft. You can talk to them, get married and even have children with them. Use this add-on to dive into Family Life if you are lonely in your Minecraft world and want variety.
+
+Features are limited as the build is still under development.
+
+How it works.
+After aiming at an NPC, click a button to start a conversation.
+
+Interaction options: Telling a story - gives a random chance for a person to show happiness, romantic interest, or friendship; joking - gives a random chance for a person to show happiness, romantic interest, or friendship; flirting - gives a random chance for a person to show romantic interest or friendship; and gift - gives a random chance for a person to show happiness, romantic interest, or friendship,
+
+Interactions with NPS will vary depending on status. Romantic status is increased by flirting, which increases the likelihood of a successful wedding. Friendship: increases by talking, which makes interaction easier. 
+
+Don't forget to enable experimental options in the map settings, changes in the new version. 
+
+They brought back marriage, added professions, changed item purchases, changed the set of points for status, added textures for the ring.
+
+---
+Es
+
+
+Mod: Vida Familiar
+
+El mod Vida Familiar añade varios NPCs que aparecerán de forma natural por todo el mundo de Minecraft. Puedes hablar con ellos, casarte e incluso tener hijos con ellos. Utiliza este complemento para sumergirte en Family Life si te sientes solo en tu mundo de Minecraft y quieres variedad.
+
+Las características son limitadas ya que la construcción está todavía en desarrollo.
+
+Cómo funciona.
+Después de apuntar a un NPC, haz clic en un botón para empezar a chatear.
+
+Opciones de interacción: Contar una historia - da una oportunidad aleatoria para que una persona muestre felicidad, interés romántico o amistad; bromear - da una oportunidad aleatoria para que una persona muestre felicidad, interés romántico o amistad; flirtear - da una oportunidad aleatoria para que una persona muestre interés romántico o amistad; y regalo - da una oportunidad aleatoria para que una persona muestre felicidad, interés romántico o amistad,
+
+Las interacciones con NPS variarán en función del estatus. Estatus romántico: aumenta coqueteando, lo que aumenta la probabilidad de una boda exitosa. Amistad: aumenta al hablar, lo que facilita la interacción. 
+
+No olvides activar las opciones experimentales en los ajustes del mapa, cambios en la nueva versión. 
+
+Trajeron de vuelta el matrimonio, añadieron profesiones, cambiaron las compras de objetos, cambiaron el conjunto de puntos para el estatus, añadieron texturas para el anillo.
+
+---
+Pt
+
+
+Mod: Vida em família
+
+O mod Family Life adiciona vários NPCs que aparecerão naturalmente em todo o mundo do Minecraft. Você pode conversar com eles, casar-se e até mesmo ter filhos com eles. Use esse complemento para mergulhar no Family Life se você estiver sozinho no mundo do Minecraft e quiser variedade.
+
+Os recursos são limitados, pois a compilação ainda está em desenvolvimento.
+
+Como funciona.
+Depois de mirar em um NPC, clique em um botão para começar a conversar.
+
+Opções de interação: Contar uma história - dá uma chance aleatória para uma pessoa demonstrar felicidade, interesse romântico ou amizade; brincar - dá uma chance aleatória para uma pessoa demonstrar felicidade, interesse romântico ou amizade; flertar - dá uma chance aleatória para uma pessoa demonstrar interesse romântico ou amizade; e presente - dá uma chance aleatória para uma pessoa demonstrar felicidade, interesse romântico ou amizade,
+
+As interações com o NPS variam de acordo com o status. O status romântico é aumentado pelo flerte, o que aumenta a probabilidade de um casamento bem-sucedido. Amizade: aumenta com a conversa, o que facilita a interação. 
+
+Não se esqueça de ativar as opções experimentais nas configurações do mapa, mudanças na nova versão. 
+
+Eles trouxeram de volta o casamento, adicionaram profissões, alteraram as compras de itens, mudaram o conjunto de pontos para status, adicionaram texturas para o anel.

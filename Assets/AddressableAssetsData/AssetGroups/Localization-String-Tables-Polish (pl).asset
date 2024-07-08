@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-String-Tables-Polish (pl)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-String-Tables-Polish (pl)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 72f6d2e13a02f864db6273aee0f1ef31
+  m_SerializeEntries:
+  - m_GUID: 8b0f58e0ed28f4a46922a1ff6d0597d0
+    m_Address: StartLoadPageTable_pl
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pl
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: af830409c1d90c342b2cc9dd055507df
+    m_Address: MainPageTable_pl
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pl
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0f5776fbb5da7e84f8f817dfd90a39a7
+    m_Address: SettingPageTable_pl
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pl
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f39698ed508f78d409094949ffa45eee
+    m_Address: PrivacyPolicyPageTable_pl
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pl
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: efb0fae03083dee4695cb8be1aec189a
+    m_Address: ModPageTable_pl
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pl
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 86cbc90b7b2e23d4393dcfb23f6aff77
+    m_Address: LongManualPage_pl
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pl
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5fcdd5c5603c37b47b566cc7a0e23b35
+    m_Address: MiniPageTable_pl
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pl
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b7c0654c9088b7b49ba74b47f6c73acb
+    m_Address: DownloadModPageTable_pl
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pl
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 05ab380b5cb933042a91164e3722ebc6
+    m_Address: Loading Errors_pl
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pl
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 05179dc3d243d6142b9b01fb9481766b
+    m_Address: ShortManualPage_pl
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pl
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f8c53a960eafe0b42981c0414e20c359
+    m_Address: ModsPageTable_pl
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pl
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 5c86ce0752075c646ac3fdbfc3edffa2, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 806e4f7daeffdf34aa65986a554fb88d, type: 2}
+    - {fileID: 11400000, guid: 1ab62120b4d96c54880772c9feddeaa9, type: 2}

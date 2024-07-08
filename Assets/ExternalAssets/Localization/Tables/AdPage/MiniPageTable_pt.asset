@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: MiniPageTable_pt
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pt
+  m_SharedData: {fileID: 11400000, guid: 926b338fb20962e4aaa8b89483f74b37, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 110653329408
+    m_Localized: "Abrir depois de ver o an\xFAncio?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 875962814464
+    m_Localized: Sim
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1123015708672
+    m_Localized: "N\xE3o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1953781501952
+    m_Localized: "Tens a certeza de que queres sair? O mod n\xE3o ser\xE1 descarregado"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

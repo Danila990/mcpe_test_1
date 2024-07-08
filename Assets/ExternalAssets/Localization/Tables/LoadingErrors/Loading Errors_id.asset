@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Loading Errors_id
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: id
+  m_SharedData: {fileID: 11400000, guid: c65d0859dddd9d54394329d300d90d04, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 53084065792
+    m_Localized: Minecraft tidak diinstal atau belum pernah dibuka
+    m_Metadata:
+      m_Items: []
+  - m_Id: 229412605952
+    m_Localized: Tidak ada akses. Tidak dapat menginstal file.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 542240575488
+    m_Localized: Tidak cukup ruang pada perangkat.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 667906117632
+    m_Localized: Koneksi telah diputuskan. Periksa koneksi Internet.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 801079463936
+    m_Localized: Addon telah dihapus atau dipindahkan.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1083909771264
+    m_Localized: Kesalahan internal. Coba lagi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1192726794240
+    m_Localized: Kesalahan yang tidak diketahui. Kami sudah mengerjakannya.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Loading Errors Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Loading Errors
+  m_TableCollectionNameGuidString: c65d0859dddd9d54394329d300d90d04
+  m_Entries:
+  - m_Id: 53084065792
+    m_Key: MinecraftNotInstalled
+    m_Metadata:
+      m_Items: []
+  - m_Id: 229412605952
+    m_Key: NoAccess
+    m_Metadata:
+      m_Items: []
+  - m_Id: 542240575488
+    m_Key: DiskIsFull
+    m_Metadata:
+      m_Items: []
+  - m_Id: 667906117632
+    m_Key: ConnectionError
+    m_Metadata:
+      m_Items: []
+  - m_Id: 801079463936
+    m_Key: FileMissing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1083909771264
+    m_Key: InternalError
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1192726794240
+    m_Key: UnknownError
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1691254657101

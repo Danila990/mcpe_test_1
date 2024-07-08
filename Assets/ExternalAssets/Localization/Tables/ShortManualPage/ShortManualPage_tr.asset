@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: ShortManualPage_tr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: tr
+  m_SharedData: {fileID: 11400000, guid: 7a8e1b62786fe154eb8886585c3048d3, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 46146686976
+    m_Localized: Talimatlar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5033631322112
+    m_Localized: Uzun talimatlar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 181261996032
+    m_Localized: "1. \u0130lgilendi\u011Finiz modu se\xE7in, indirin ve kurulum i\xE7in
+      bekleyin"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1083880411136
+    m_Localized: "2. A\xE7\u0131n. Ve i\xE7e aktarma i\u015Flemi tamamlanana kadar
+      bekleyin."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1130789507072
+    m_Localized: "3. Yeni bir d\xFCnya olu\u015Fturun ve y\xFCkl\xFC eklentiyi buna
+      ekleyin."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1137768828928
+    m_Localized: "4. Yeni eklenti ile oynaman\u0131n tad\u0131n\u0131 \xE7\u0131kar\u0131n!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1780105515008
+    m_Localized: "1. Eklenti sayfas\u0131na gidin, indirin ve indirme i\u015Fleminin
+      tamamlanmas\u0131n\u0131 bekleyin.\n2. Eklentiyi a\xE7\u0131n. \u0130\xE7e
+      aktarma tamamlanana kadar bekleyin.\n3. \"D\xFCnyay\u0131 i\xE7e aktarma ba\u015Far\u0131yla
+      tamamland\u0131\" ifadesini g\xF6rd\xFC\u011F\xFCn\xFCzde kurulum tamamlanm\u0131\u015Ft\u0131r.\n4.
+      \u0130ndirilen d\xFCnyay\u0131 a\xE7\u0131n ve oyunun tad\u0131n\u0131 \xE7\u0131kar\u0131n!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1955729412096
+    m_Localized: "1. Kaplamalar sayfas\u0131na gidin, indirin ve indirme i\u015Fleminin
+      tamamlanmas\u0131n\u0131 bekleyin."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2015187865600
+    m_Localized: "2. Eklentiyi a\xE7\u0131n. \u0130\xE7e aktarma i\u015Flemi tamamlanana
+      kadar bekleyin."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2017029165056
+    m_Localized: "3. Gard\u0131rop sekmesine gidin. Mintcraft s\xFCr\xFCm\xFCne ba\u011Fl\u0131
+      olarak, ad\u0131mlar farkl\u0131 olabilir, bu nedenle \"sat\u0131n al\u0131nan\"
+      sekmesini kendiniz bulman\u0131z gerekecektir."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2018404896768
+    m_Localized: "4. Sat\u0131n al\u0131nan sekmesinde bir paket d\u0131\u015F g\xF6r\xFCn\xFCm
+      olacakt\u0131r, listeden en be\u011Fendi\u011Finizi se\xE7in ve giy butonuna
+      t\u0131klay\u0131n.\r\n5. Yeni g\xF6r\xFCn\xFCm\xFCn\xFCzle oynaman\u0131n
+      tad\u0131n\u0131 \xE7\u0131kar\u0131n!"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

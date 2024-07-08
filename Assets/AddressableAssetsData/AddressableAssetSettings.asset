@@ -1,0 +1,158 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 468a46d0ae32c3544b7d98094e6448a9, type: 3}
+  m_Name: AddressableAssetSettings
+  m_EditorClassIdentifier: 
+  m_DefaultGroup: 2616f457ae175d841bbe0f7b1303f81b
+  m_OptimizeCatalogSize: 0
+  m_BuildRemoteCatalog: 0
+  m_BundleLocalCatalog: 0
+  m_CatalogRequestsTimeout: 0
+  m_DisableCatalogUpdateOnStart: 0
+  m_IgnoreUnsupportedFilesInBuild: 0
+  m_UniqueBundleIds: 0
+  m_NonRecursiveBuilding: 0
+  m_CCDEnabled: 0
+  m_maxConcurrentWebRequests: 3
+  m_ContiguousBundles: 0
+  m_StripUnityVersionFromBundleBuild: 0
+  m_DisableVisibleSubAssetRepresentations: 0
+  m_ShaderBundleNaming: 0
+  m_ShaderBundleCustomNaming: 
+  m_MonoScriptBundleNaming: 0
+  m_CheckForContentUpdateRestrictionsOption: 0
+  m_MonoScriptBundleCustomNaming: 
+  m_RemoteCatalogBuildPath:
+    m_Id: 
+  m_RemoteCatalogLoadPath:
+    m_Id: 
+  m_ContentStateBuildPathProfileVariableName: 
+  m_CustomContentStateBuildPath: 
+  m_ContentStateBuildPath: 
+  m_BuildAddressablesWithPlayerBuild: 0
+  m_overridePlayerVersion: '[UnityEditor.PlayerSettings.bundleVersion]'
+  m_GroupAssets:
+  - {fileID: 11400000, guid: fb6c9e9bf427cfb42ad3b4cabb377e12, type: 2}
+  - {fileID: 11400000, guid: 83b8105b2e71a4146b07c19332a939b3, type: 2}
+  - {fileID: 11400000, guid: 52232f2caf1e70e458c2dbf2f43a68ed, type: 2}
+  - {fileID: 11400000, guid: 1644c94f31b1ef9449688cac2017155a, type: 2}
+  - {fileID: 11400000, guid: 048e58fbefd311b458c85234970b09e2, type: 2}
+  - {fileID: 11400000, guid: fb8f85dcfdbdb3a46892fc3a22fcc570, type: 2}
+  - {fileID: 11400000, guid: ff4a5684ceb03b14d99b0d4d2c454d99, type: 2}
+  - {fileID: 11400000, guid: 3950d508d572e33438416d01833faded, type: 2}
+  - {fileID: 11400000, guid: b718988ab04db9c4192b99a32afdccd1, type: 2}
+  - {fileID: 11400000, guid: 1abd088bac44ad9409a021ab102a4349, type: 2}
+  - {fileID: 11400000, guid: 85b964c154d89b04c833e4a49a825a44, type: 2}
+  - {fileID: 11400000, guid: aa15b87717defbf4386ca49ba6d65341, type: 2}
+  - {fileID: 11400000, guid: 225b31cbd6167b849ab3e1171a897e27, type: 2}
+  - {fileID: 11400000, guid: 742a010e03c9b7546844c41050715659, type: 2}
+  - {fileID: 11400000, guid: 01160e37e7ab085488b4beb57396e85a, type: 2}
+  - {fileID: 11400000, guid: b6bf9104f1c31e849a4f0739ac7766b7, type: 2}
+  - {fileID: 11400000, guid: fbbbb1537b86e55489bdc63be02ae248, type: 2}
+  - {fileID: 11400000, guid: 605d694c84b5e5b4ca6026f153ad8596, type: 2}
+  - {fileID: 11400000, guid: 3c94b6e556df97043a1cdadeb4c8908a, type: 2}
+  - {fileID: 11400000, guid: a56d32eaaf25ce04cbc6c5041aee83cf, type: 2}
+  - {fileID: 11400000, guid: c930f10a609a8544e82d2f08771b530a, type: 2}
+  - {fileID: 11400000, guid: 6c800f5437282ee4caee7bc5e3fcb056, type: 2}
+  - {fileID: 11400000, guid: 72556bd979bc0b145b0ff3082a19c029, type: 2}
+  - {fileID: 11400000, guid: e94a9056b806a484884ec167bf487e89, type: 2}
+  - {fileID: 11400000, guid: b24f68e2f4eab6540af467de7b584ee1, type: 2}
+  - {fileID: 11400000, guid: 8dbe0af2f653d184980fa767aed21a78, type: 2}
+  - {fileID: 11400000, guid: d295f39048fc5f149a22be7ed4bc9c11, type: 2}
+  - {fileID: 11400000, guid: 0b1f7ea18779a6945ac3a766718c595a, type: 2}
+  - {fileID: 11400000, guid: c6d796e58ae232d4390387393b385371, type: 2}
+  - {fileID: 11400000, guid: 07236b85e049c944ca3d779ef08cd0a8, type: 2}
+  - {fileID: 11400000, guid: ca0f21f2949ecbb48af1ba44a0411fcf, type: 2}
+  - {fileID: 11400000, guid: ca165ea3206f50d4cabffc8b79d56046, type: 2}
+  - {fileID: 11400000, guid: ba12e39576842664b98e7b76ae031567, type: 2}
+  - {fileID: 11400000, guid: c01857f333e166443a0a8288d79b435c, type: 2}
+  - {fileID: 11400000, guid: 16108c35573757044a85c11585a8ee9e, type: 2}
+  - {fileID: 11400000, guid: b1580ea1921d5c74a8fa7a407d84e1d9, type: 2}
+  - {fileID: 11400000, guid: b5fc775ffe64c5e4d8aa9d74d57037c7, type: 2}
+  - {fileID: 11400000, guid: 78e536110513aa248b51ce9af4ea75ad, type: 2}
+  - {fileID: 11400000, guid: 96197a73ff890a241a2a089916bc538d, type: 2}
+  - {fileID: 11400000, guid: 4652f1106f3929049994fd30529c4596, type: 2}
+  - {fileID: 11400000, guid: 82056192eb370de4d9c230d5adb54680, type: 2}
+  - {fileID: 11400000, guid: 5dfe9a114ac8a084f8712aef140ecd55, type: 2}
+  m_BuildSettings:
+    m_CompileScriptsInVirtualMode: 0
+    m_CleanupStreamingAssetsAfterBuilds: 1
+    m_LogResourceManagerExceptions: 1
+    m_BundleBuildPath: Temp/com.unity.addressables/AssetBundles
+  m_ProfileSettings:
+    m_Profiles:
+    - m_InheritedParent: 
+      m_Id: 4a945c6269bc5d8479783a9dfad165f2
+      m_ProfileName: Default
+      m_Values:
+      - m_Id: 88cbc310562d5fd45be5cb1026cc2053
+        m_Value: '[UnityEditor.EditorUserBuildSettings.activeBuildTarget]'
+      - m_Id: 947f3ca82496db9468d012d808ee15e6
+        m_Value: '[UnityEngine.AddressableAssets.Addressables.BuildPath]/[BuildTarget]'
+      - m_Id: 467e79039236f784b802ad4b478b2085
+        m_Value: '{UnityEngine.AddressableAssets.Addressables.RuntimePath}/[BuildTarget]'
+      - m_Id: 0f61c0c19da6cd744be140fb94d14dbf
+        m_Value: ServerData/[BuildTarget]
+      - m_Id: 1210fc5408bcadb44b396a2fc2f571cb
+        m_Value: http://[PrivateIpAddress]:[HostingServicePort]
+    m_ProfileEntryNames:
+    - m_Id: 88cbc310562d5fd45be5cb1026cc2053
+      m_Name: BuildTarget
+      m_InlineUsage: 0
+    - m_Id: 947f3ca82496db9468d012d808ee15e6
+      m_Name: Local.BuildPath
+      m_InlineUsage: 0
+    - m_Id: 467e79039236f784b802ad4b478b2085
+      m_Name: Local.LoadPath
+      m_InlineUsage: 0
+    - m_Id: 0f61c0c19da6cd744be140fb94d14dbf
+      m_Name: Remote.BuildPath
+      m_InlineUsage: 0
+    - m_Id: 1210fc5408bcadb44b396a2fc2f571cb
+      m_Name: Remote.LoadPath
+      m_InlineUsage: 0
+    m_ProfileVersion: 1
+  m_LabelTable:
+    m_LabelNames:
+    - default
+    - Locale
+    - Locale-en
+    - Locale-ru
+    - Locale-uk
+    - Locale-id
+    - Preload
+    - Locale-fr
+    - Locale-de
+    - Locale-pt
+    - Locale-pl
+    - Locale-es
+    - Locale-tr
+  m_SchemaTemplates: []
+  m_GroupTemplateObjects:
+  - {fileID: 11400000, guid: 2cb054c5e060e114981472b598150509, type: 2}
+  m_InitializationObjects: []
+  m_CertificateHandlerType:
+    m_AssemblyName: 
+    m_ClassName: 
+  m_ActivePlayerDataBuilderIndex: 3
+  m_DataBuilders:
+  - {fileID: 11400000, guid: b1f79684a3ace1746b9c39a5c7e8c455, type: 2}
+  - {fileID: 11400000, guid: 634417160abc5bd49947f5af3c070caf, type: 2}
+  - {fileID: 11400000, guid: 9f0d5301caa60ed44ab64af3dc138610, type: 2}
+  - {fileID: 11400000, guid: 36236040dc8e14949a9a9b47314746ad, type: 2}
+  m_ActiveProfileId: 4a945c6269bc5d8479783a9dfad165f2
+  m_HostingServicesManager:
+    m_HostingServiceInfos: []
+    m_Settings: {fileID: 11400000}
+    m_NextInstanceId: 0
+    m_RegisteredServiceTypeRefs: []
+    m_PingTimeoutInMilliseconds: 5000

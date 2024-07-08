@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: Loading Errors
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: c65d0859dddd9d54394329d300d90d04, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 5616602f456721345a9bf95d10d74382, type: 2}
+  - {fileID: 11400000, guid: 7904491476771ee438fb0ae403af6e2c, type: 2}
+  - {fileID: 11400000, guid: 7ade3f5a3bc39424ca2526396434fe6a, type: 2}
+  - {fileID: 11400000, guid: c8ee589087cef6045a1f3dea82ef8ee9, type: 2}
+  - {fileID: 11400000, guid: 05ab380b5cb933042a91164e3722ebc6, type: 2}
+  - {fileID: 11400000, guid: d3a9d6bb5ba4d424fa2fb25f0106951f, type: 2}
+  - {fileID: 11400000, guid: 19b4d88ed7feb2244aa0150092f6f4cb, type: 2}
+  - {fileID: 11400000, guid: 9dae4ab2b35c0e849a10eb30b8a0a9ca, type: 2}
+  - {fileID: 11400000, guid: 88f69c25e8b1637468d7d61513a3c7d0, type: 2}
+  - {fileID: 11400000, guid: 1a99651ee8e5b1f498f1cdeca4d51b6b, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 1

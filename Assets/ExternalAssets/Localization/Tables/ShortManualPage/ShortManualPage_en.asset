@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: ShortManualPage_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 7a8e1b62786fe154eb8886585c3048d3, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 46146686976
+    m_Localized: Instructions
+    m_Metadata:
+      m_Items: []
+  - m_Id: 181261996032
+    m_Localized: 1. Select the mod you are interested in, download and wait for installation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1083880411136
+    m_Localized: 2. Open it. And wait until the import is completed.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1130789507072
+    m_Localized: 3. Create a new world and add the installed addon to it.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1137768828928
+    m_Localized: 4. Enjoy playing with the new addon!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1780105515008
+    m_Localized: '1. Go to the addon page, download and wait for the download to
+      complete.
+
+      2. open the addon. Wait until the import is completed.
+
+      3.
+      Once you see the phrase "Import world successfully completed", the installation
+      is complete.
+
+      4 Open the downloaded world and enjoy the game!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1955729412096
+    m_Localized: 1. Go to the skins page, download and wait for the download to complete.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2015187865600
+    m_Localized: 2. Open the addon. Wait until the import is completed.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2017029165056
+    m_Localized: 3. Go to the wardrobe tab. Depending on the version of mintcraft,
+      the steps may differ, so you will need to find the "purchased" tab yourself.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2018404896768
+    m_Localized: '4. In the purchased tab there will be a pack of skins, choose your
+      favourite from the list and click put on.
+
+      5. Enjoy playing with your
+      new skin!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5033631322112
+    m_Localized: Long instructions
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: ShortManualPage_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: 7a8e1b62786fe154eb8886585c3048d3, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 46146686976
+    m_Localized: Instructions
+    m_Metadata:
+      m_Items: []
+  - m_Id: 181261996032
+    m_Localized: "1. S\xE9lectionnez le mod qui vous int\xE9resse, t\xE9l\xE9chargez
+      et attendez l'installation."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1083880411136
+    m_Localized: "2. Ouvrez-le. Et attendez que l'importation soit termin\xE9e."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1130789507072
+    m_Localized: "3. Cr\xE9ez un nouveau monde et ajoutez-y l'addon install\xE9."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1137768828928
+    m_Localized: 4. Amusez-vous bien avec ce nouvel addon !
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1780105515008
+    m_Localized: "1. Allez sur la page de l'addon, t\xE9l\xE9chargez et attendez
+      que le t\xE9l\xE9chargement soit termin\xE9.\n2. Ouvrez l'addon. Attendez que
+      l'importation soit termin\xE9e.\n3. Une fois que vous voyez la phrase \"Import
+      world successfully completed\", l'installation est termin\xE9e.\n4 Ouvrez le
+      monde t\xE9l\xE9charg\xE9 et profitez du jeu !"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1955729412096
+    m_Localized: "1. Allez \xE0 la page des skins, t\xE9l\xE9chargez et attendez
+      que le t\xE9l\xE9chargement soit termin\xE9."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2015187865600
+    m_Localized: "2. Ouvrez l'addon. Attendez que l'importation soit termin\xE9e."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2017029165056
+    m_Localized: "3. Allez dans l'onglet \"garde-robe\". Selon la version de mintcraft,
+      les \xE9tapes peuvent diff\xE9rer, vous devrez donc trouver vous-m\xEAme l'onglet
+      \"achet\xE9\"."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2018404896768
+    m_Localized: "4. Dans l'onglet achet\xE9, il y aura un pack de skins, choisissez
+      votre pr\xE9f\xE9r\xE9 dans la liste et cliquez sur mettre.\n5. Amusez-vous
+      \xE0 jouer avec votre nouvelle peau !"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5033631322112
+    m_Localized: Instructions longues
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1
